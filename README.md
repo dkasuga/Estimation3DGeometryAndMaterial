@@ -26,7 +26,7 @@ This system inputs single image and outputs 3D mesh and physically-based materia
 ## dependencies
 - PyThon 3.6 or above
 - PyTorch >= 1.3 and Torchvision
-- [Kaolin=](https://github.com/NVIDIAGameWorks/kaolin)
+- [Kaolin](https://github.com/NVIDIAGameWorks/kaolin)
 - [redner](https://github.com/BachiLi/redner)
 
 ## Note
