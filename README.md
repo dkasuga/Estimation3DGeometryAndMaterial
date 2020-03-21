@@ -1,4 +1,4 @@
-# Estimation3DGeometryAndMaterial
+# EstimationOf3DGeometryAndMaterial
 This system inputs single image and outputs 3D mesh and physically-based material estimated by neural network.
 
 ## input images
